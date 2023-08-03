@@ -5,3 +5,4 @@ For the reason from inner mechanism of EightFish, currently you can use any abil
 That means, you can only do single table queries right now!
 
 We will dig to research how to loose this restriction in the future.
+ 
